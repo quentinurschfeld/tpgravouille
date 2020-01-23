@@ -8,6 +8,13 @@ public class LEtaf {
 			System.out.println("pierre tu soule");
 			
 			System.out.println(i*5);
+			
+			System.out.println("__");
+			System.out.println("| ");
+			System.out.println("__");
+			System.out.println("  |");
+			System.out.println("__");
+			
 		}
 		
 		
